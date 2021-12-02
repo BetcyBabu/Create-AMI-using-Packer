@@ -16,7 +16,9 @@ Packer is a lightweight, open source tool for building machine images across mul
 
 ## Usage
 
-[Install Git](https://github.com/git-guides/install-git)
+- [Install Git](https://github.com/git-guides/install-git)
+- Clone the repo
+
 
 ```
 git clone https://github.com/BetcyBabu/packer.git
@@ -24,7 +26,7 @@ cd packer
 packer build ami.pkr.hcl
 ```
 
-This creates a new EC2 instanced based on source_ami, software provisioning, stops the instance, creates an AMI based on the new event, and then terminates the EC2 instance.
+This creates a new EC2 instanced based on source_ami, software provisioning, stops the instance, creates an AMI based on the new instance, and then terminates the EC2 instance.
 
 ## Result
 
