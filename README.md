@@ -1,6 +1,7 @@
 # Create Amazon Machine Image (AMI) using Packer
 
-Packer is a lightweight, open source tool for building machine images across multiple platforms, including AWS, Azure, and GCP, work on all major operating systems.
+Packer is a lightweight, open source tool for building machine images across multiple platforms, including AWS, Azure, and GCP.
+
 
 ## Objective
 
